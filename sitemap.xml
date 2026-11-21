@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://brandateekidsfashion.vercel.app/</loc>
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <!-- الشعار / البانر الرئيسي -->
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/favicon.png</image:loc>
+      <image:title>Brandatee - for all the clothes from boys to girls</image:title>
+      <image:caption>Brandatee - for all the clothes from boys to girls</image:caption>
+    </image:image>
+
+    <!-- صور معرض ملابس الأطفال الأولية -->
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/762650824_1036367862426012_6289670119649696443_n.jpg</image:loc>
+      <image:title>تيشيرت أبيض قطني برسومات سيارات وأتوبيسات مبهجة مع تشكيلة بناطيل قطنية بألوان متنوعة.</image:title>
+      <image:caption>تيشيرت أبيض قطني برسومات سيارات وأتوبيسات مبهجة مع تشكيلة بناطيل قطنية بألوان متنوعة.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/825888900_1086341950761936_610069102139684130_n.jpg</image:loc>
+      <image:title>أطقم سويت شيرت وبنطلون DADDY'S MINI مريحة بألوان الكحلي والبيج والمقلم أسود في أبيض.</image:title>
+      <image:caption>أطقم سويت شيرت وبنطلون DADDY'S MINI مريحة بألوان الكحلي والبيج والمقلم أسود في أبيض.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/828468127_1086339810762150_7873018350833399711_n.jpg</image:loc>
+      <image:title>طقم بناتي ريب سماوي أنيق مزين بفيونكات ناعمة وبنطلون واسع من الأسفل.</image:title>
+      <image:caption>طقم بناتي ريب سماوي أنيق مزين بفيونكات ناعمة وبنطلون واسع من الأسفل.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/828840797_1086339730762158_5709341601677715162_n.jpg</image:loc>
+      <image:title>بيجامة بناتي قطن ريب باللون السماوي مطبوعة بفيونكات وردية وقلوب ملونة.</image:title>
+      <image:caption>بيجامة بناتي قطن ريب باللون السماوي مطبوعة بفيونكات وردية وقلوب ملونة.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/829381306_1086339870762144_8161989136675046069_n.jpg</image:loc>
+      <image:title>طقم بناتي ريب باللون السيمون الدافئ مزين بفيونكات رقيقة مع بنطلون واسع.</image:title>
+      <image:caption>طقم بناتي ريب باللون السيمون الدافئ مزين بفيونكات رقيقة مع بنطلون واسع.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/829555458_1086339927428805_6573783119079581919_n.jpg</image:loc>
+      <image:title>طقم فرو ناعم جداً بأذنين على الكابيشو وتفاصيل تطريز لطيفة تناسب الأجواء الباردة.</image:title>
+      <image:caption>طقم فرو ناعم جداً بأذنين على الكابيشو وتفاصيل تطريز لطيفة تناسب الأجواء الباردة.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://brandateekidsfashion.vercel.app/830342962_1086339777428820_7231400695821665921_n.jpg</image:loc>
+      <image:title>بيجامة بناتي قطن ريب أوف وايت مطبوعة بحبات الفراولة الحمراء والفيونكات.</image:title>
+      <image:caption>بيجامة بناتي قطن ريب أوف وايت مطبوعة بحبات الفراولة الحمراء والفيونكات.</image:caption>
+    </image:image>
+  </url>
+</urlset>
